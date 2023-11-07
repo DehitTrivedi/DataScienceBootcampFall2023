@@ -1,0 +1,21 @@
+
+1. Assessing Statistical Significance:
+   Statistical significance is a measure of whether an observed effect or result is likely to be real or if it could have occurred by chance. One way to assess this is by using statistical hypothesis testing. Typically, this involves comparing observed data to what would be expected under the assumption of no effect or no relationship (null hypothesis). If the observed result is highly unlikely to have occurred by chance, it's considered statistically significant. Common methods for significance testing include t-tests, chi-square tests, ANOVA, etc.
+
+2. Central Limit Theorem (CLT):
+   The Central Limit Theorem states that the sampling distribution of the sample mean approaches a normal distribution as the sample size gets larger, regardless of the shape of the original population distribution. It's important because it allows us to make inferences about a population based on a sample and perform various statistical analyses even if the population distribution is unknown or not normal. This theorem forms the basis for many statistical techniques and hypothesis testing.
+
+3. Statistical Power:
+   Statistical power is the probability that a statistical test will correctly reject a false null hypothesis (i.e., correctly identify an effect when it exists). High statistical power indicates a low chance of making a Type II error (false negative), which means failing to detect an effect that is present. It's influenced by sample size, effect size, alpha level, and variability in the data.
+
+4. Controlling for Biases:
+   To control biases in research or analysis, various methods can be employed. This might involve ensuring the study's design is robust, randomizing samples, using blinding or double-blinding techniques, carefully selecting control groups, and being aware of and accounting for potential sources of bias in data collection, analysis, and interpretation.
+
+5. Confounding Variables:
+   Confounding variables are extraneous variables that are related to both the independent variable and the dependent variable. They can falsely give the impression of a causal relationship between the variables of interest. Controlling for confounding variables is essential to establish a true relationship between the independent and dependent variables.
+
+6. A/B Testing:
+   A/B testing, also known as split testing, is an experimental method used to compare two versions of something to determine which performs better. It is commonly used in marketing, web design, and product development. It involves presenting variant A to one group and variant B to another, then measuring and comparing their performances to determine which one is more effective.
+
+7. Confidence Intervals:
+   Confidence intervals are a range of values used to estimate the true value of a population parameter. They provide a range within which the true value is likely to fall. For example, a 95% confidence interval implies that if the same population were sampled on numerous occasions and interval estimates were made on each occasion, the true population parameter would be contained within the interval in 95% of the cases.
